@@ -1,5 +1,7 @@
 # 데이터 관련 직군 조사
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDataNetworkAnalysis%2FData-Jobs-Research)
+
 ## 데이터 분석가
 
 **Data Analyist**
